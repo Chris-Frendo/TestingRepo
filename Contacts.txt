@@ -1,6 +1,6 @@
-Name	Surname		Code		Phone
-Chris	F		123		123123
-A	B		1234		142124
-C	D		123135		123123
-E	F		123		1231231
-G	H		123123		98712398
+Name	Surname		Code		Phone		Email
+Chris	F		123		123123		test@email.com
+A	B		1234		142124		test@email.com
+C	D		123135		123123		test@email.com
+E	F		123		1231231		test@email.com
+G	H		123123		98712398	test@email.com
