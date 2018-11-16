@@ -1,7 +1,9 @@
 12 eggs
 3 lemons
-4 milk
+6 milk
 1lbs flour
 1 food
-this is a test while testing tags
-
+5 oranges
+2kg chicken
+more chicken
+this is a test while tagging
