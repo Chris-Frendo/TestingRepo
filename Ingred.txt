@@ -1,3 +1,4 @@
+Previous lines in master branch
 This is a  test for mergeing. This should not overwrite the lines in the master branch
 
 
